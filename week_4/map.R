@@ -1,0 +1,13 @@
+rm(list = ls(all=TRUE))
+library(leaflet)
+locate <- read.csv("1070919typhoonparking.csv")
+options(digits=8)
+a=locate[1:100,'Longitude']
+b=lat=locate$Latitude
+c=popup=locate$loc
+map <- leaflet() %>%
+  addMarkers(lng=locate[1:300,'Longitude'],lat=locate[1:300,'Latitude']
+  ) %>%
+  addTiles() %>%
+  fitBounds("120","22","121","23")
+map
