@@ -5,13 +5,13 @@
 ## (https://drive.google.com/file/d/1-A9FB7VottvzZT7Y_09EIh6dtIUyOtMB/view?usp=sharing)[報告pdf] 
 ### (https://drive.google.com/file/d/1YXGTCwPie7ZKq2EuQ_Fqt6m3c5otNF6A/view?usp=sharing)[報告ppt]
 ###  核心方法
-### https://github.com/gordon0813/ml_learning_map/blob/master/final%20project/final%20project_article_filter.ipynb
+#### https://gordon0813.github.io/R-learning-map/html/final project_article_filter.html
 ###  獲取資料
-### https://github.com/gordon0813/ml_learning_map/blob/master/final%20project/beautifulsoup.ipynb
+#### https://gordon0813.github.io/R-learning-map/html/beautifulsoup.html
 ###  切字
-###  https://github.com/gordon0813/ml_learning_map/blob/master/final%20project/final_project_split_word.ipynb
+####  https://gordon0813.github.io/R-learning-map/html/final_project_split_word.html
 ### 將切好的字進行一些統計(每個詞在不同類文章的出現頻率)
-###  https://github.com/gordon0813/ml_learning_map/blob/master/final%20project/final_project_create_dic
+###  https://gordon0813.github.io/R-learning-map/html/final_project_create_dic.html
 
 
 ## 成果1.1_景點推薦系統展示
