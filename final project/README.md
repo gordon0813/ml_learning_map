@@ -11,7 +11,7 @@
 ###  切字
 ####  https://gordon0813.github.io/R-learning-map/html/final_project_split_word.html
 ### 將切好的字進行一些統計(每個詞在不同類文章的出現頻率)
-###  https://gordon0813.github.io/R-learning-map/html/final_project_create_dic.html
+####  https://gordon0813.github.io/R-learning-map/html/final_project_create_dic.html
 
 
 ## 成果1.1_景點推薦系統展示
