@@ -5,7 +5,7 @@
 ## (https://drive.google.com/file/d/1-A9FB7VottvzZT7Y_09EIh6dtIUyOtMB/view?usp=sharing)[報告pdf] 
 ### (https://drive.google.com/file/d/1YXGTCwPie7ZKq2EuQ_Fqt6m3c5otNF6A/view?usp=sharing)[報告ppt]
 ###  核心方法
-#### https://gordon0813.github.io/R-learning-map/html/final project_article_filter.html
+#### https://gordon0813.github.io/R-learning-map/html/final_project_article_filter.html
 ###  獲取資料
 #### https://gordon0813.github.io/R-learning-map/html/beautifulsoup.html
 ###  切字
