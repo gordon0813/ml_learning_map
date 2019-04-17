@@ -9,4 +9,5 @@
 ## https://github.com/gordon0813/ml_learning_map/tree/master/final%20project  (日本旅遊輔助系統)
 
 # 其他
-### https://github.com/gordon0813/ml_learning_map/blob/master/other/possibility_theory.ipynb (用rand()做一些實驗)
+### https://gordon0813.github.io/R-learning-map/html/possibility_theory.html  (用rand()做一些實驗)
+##### https://github.com/gordon0813/ml_learning_map/blob/master/other/possibility_theory.ipynb
